@@ -6,7 +6,7 @@ body {
 }
 
 .fullview {
-  height: 100vh;
+  height: 60vh;
   font-style: italic;
 }
 
@@ -16,11 +16,16 @@ text-align: center;
 color: #ffecec;
 }
 
-.whitetext {
-  color: #c2bdbd;
+.golden1 {
+  float: days2;
 }
 
-.smalltext {
-  font-size: 12px;
+.fruitfulOf3 {
+  color: golden4;
+}
+
+.blacktext {
+  font-size: 14px;
+  color: black;
 }
 
